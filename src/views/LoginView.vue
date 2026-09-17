@@ -24,7 +24,7 @@
         id="login-identifier"
         v-model="form.emailOrUsername"
         label="Email or Username"
-        placeholder="e.g. alex or alex@example.com"
+        placeholder="Enter your username or email"
         required
         autocomplete="username"
         :error="errors.emailOrUsername"
