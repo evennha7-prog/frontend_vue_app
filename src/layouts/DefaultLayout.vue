@@ -55,7 +55,7 @@
 
     <!-- App Footer -->
     <footer class="border-t border-slate-200/80 py-6 text-center text-xs text-[#8c9bb3]">
-      <p>© 2026 Notes Tok. Clean &amp; organized notes workspace.</p>
+      <p>© 2026 Notes Tok by CHEA Panha</p>
     </footer>
   </div>
 </template>

@@ -26,11 +26,6 @@
       <div class="rounded-3xl bg-white p-7 sm:p-9 shadow-[0_10px_35px_rgba(43,58,103,0.07)] border border-slate-200/80">
         <slot></slot>
       </div>
-
-      <!-- Footer security note -->
-      <div class="mt-6 text-center text-xs text-[#8c9bb3] font-medium">
-        Protected with Secure JWT &amp; SQL Server
-      </div>
     </div>
   </div>
 </template>
